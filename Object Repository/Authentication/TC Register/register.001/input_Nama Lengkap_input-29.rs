@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Lengkap_input-29</name>
+   <tag></tag>
+   <elementGuidId>1a8309c6-4f8e-4162-a268-8425ce9491e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#input-29</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='input-29']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/main/div/div/div/div[2]/form/div[1]/div/div[1]/div/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/main/div/div/div/div[2]/form/div[1]/div/div[1]/div/input</value>
+      <webElementGuid>93c498c0-1741-4057-917e-145b53e42bf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='input-29']</value>
+      <webElementGuid>d2dadc69-fc28-4aa9-842e-480f2aca5855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/form/div/div/div/div/input</value>
+      <webElementGuid>7be75829-9603-40c0-b5b2-40dabb37ec18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>f4783989-3992-4bb2-9baf-488950749532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'input-29' and @type = 'text']</value>
+      <webElementGuid>a86701b6-aab6-46e0-a65e-992c0f1fcb8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
